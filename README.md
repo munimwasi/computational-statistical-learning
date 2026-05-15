@@ -1,6 +1,6 @@
-# MAS456 — Statistical Computing, Data Analysis, and Machine Learning Portfolio
+# Statistical Computing, Data Analysis, and Machine Learning Portfolio
 
-A comprehensive portfolio of statistical learning, computational data analysis, predictive modeling, and scientific computing projects completed as part of **MAS456: Statistical Methods with Computer** at **KAIST**.
+A comprehensive portfolio of statistical learning, computational data analysis, predictive modeling, and scientific computing projects completed as part of **Statistical Methods with Computer** at **KAIST**.
 
 This repository showcases an end-to-end pipeline of working with complex, high-dimensional, and noisy datasets. The projects contained herein emphasize both **theoretical statistical rigor** and **hands-on computational implementation**, focusing on extracting interpretable insights from real-world data to drive scientific and systemic analysis.
 
@@ -153,7 +153,7 @@ My foundational focus centers on **scientific data analysis, computational model
 
 *   **Author:** Munim Hasan Wasi
 *   **Affiliation:** KAIST (School of Computing) 
-*   **Course Context:** MAS456 — Statistical Methods with Computer (Fall 2023)
+*   **Course Context:** Statistical Methods with Computer (Fall 2023)
 *   **Objective:** This repository serves as a foundational open-source portfolio demonstrating quantitative research readiness, programming proficiency, and an analytical mindset geared toward collaborative, data-driven scientific exploration.
 
 ---
