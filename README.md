@@ -8,7 +8,7 @@ This repository showcases an end-to-end pipeline of working with complex, high-d
 
 ## 📂 Repository Architecture
 
-    MAS456-Statistical-Methods-with-Computer/
+    Statistical-Methods-with-Computer/
     │
     ├── README.md
     │
@@ -152,8 +152,7 @@ My foundational focus centers on **scientific data analysis, computational model
 ## 🎓 Academic Profile
 
 *   **Author:** Munim Hasan Wasi
-*   **Affiliation:** KAIST (School of Computing) 
-*   **Course Context:** Statistical Methods with Computer (Fall 2023)
+*   **Affiliation:** SFU (Simon Fraser University)
 *   **Objective:** This repository serves as a foundational open-source portfolio demonstrating quantitative research readiness, programming proficiency, and an analytical mindset geared toward collaborative, data-driven scientific exploration.
 
 ---
