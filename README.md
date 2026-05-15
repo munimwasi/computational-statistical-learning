@@ -1,4 +1,4 @@
-# MAS456 — Statistical Computing, Data Analysis, and Machine Learning Portfolio
+# tatistical Computing, Data Analysis, and Machine Learning Portfolio
 
 A comprehensive portfolio of statistical learning, computational data analysis, and predictive modeling projects completed at **KAIST** (Statistical Methods with Computer).
 
